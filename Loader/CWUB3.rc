@@ -1,0 +1,35 @@
+#include <windows.h>
+
+1 24 MOVEABLE PURE "res\\CWUB3.xml"
+
+APPICON ICON "res\\CWUB3.ico"
+
+/*
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,4
+ PRODUCTVERSION 1,0,0,4
+ FILEFLAGSMASK 0x3fL
+ FILEFLAGS 0x0L
+ FILEOS 0x40004L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "080404b0"
+        BEGIN
+            VALUE "CompanyName", "耍下 www.shuax.com\0"
+            VALUE "FileDescription", "幽香3\0"
+            VALUE "FileVersion", "1, 0, 0, 4\0"
+            VALUE "LegalCopyright", "版权所有 (C) 2009 - 2012.\0"
+            VALUE "OriginalFilename", "CWUB3.exe"
+            VALUE "ProductName", "幽香3\0"
+            VALUE "ProductVersion", "1.004\0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x804, 1200
+    END
+END
+*/
